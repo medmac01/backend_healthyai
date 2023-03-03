@@ -1,0 +1,1 @@
+from healthyai_backend.wsgi import application
